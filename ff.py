@@ -3,7 +3,7 @@ import emoji
 import random
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 def get_bot_name(user_gender):
     # Define a list of male and female names
